@@ -1,3 +1,4 @@
+"use client"
 import React from 'react'
 import DataCard from '../components/DataCard'
 import { dataDetails } from '../constants/page'

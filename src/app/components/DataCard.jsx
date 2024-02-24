@@ -1,3 +1,4 @@
+"use client"
 import React from 'react';
 
 const DataCard = ({ internshipType, programmingLanguage, date, jobTitle, company, jobCategory, logoUrl, jobUrl }) => {

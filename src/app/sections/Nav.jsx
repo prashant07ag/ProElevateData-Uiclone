@@ -1,6 +1,6 @@
+"use client"
 import React from 'react';
 import { navLinks } from '../constants/page';
-import { hamburger } from '../assets/page';
 const Nav = () => {
     return (
         <header className='px-5 py-8 z-10 w-full'>
