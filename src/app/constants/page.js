@@ -1,3 +1,4 @@
+"use client"
 import { facebook, instagram, twitter } from "../assets/page";
 export const navLinks = [
     { href: "#home", label: "Home" },
